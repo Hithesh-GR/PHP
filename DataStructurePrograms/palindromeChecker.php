@@ -13,7 +13,7 @@
  *  @since          : 28-01-2019
  *******************************************************************************************/
 require 'utility.php';
-require 'palindromeDeque.php';
+require 'deque.php';
 /**
  * create new deque
  **/

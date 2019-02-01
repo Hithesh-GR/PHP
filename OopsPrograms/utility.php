@@ -41,5 +41,27 @@ class Utility
         }
         return $i;
     }
+    /**
+     * function readfl is to read file and return in the form of string
+     *
+     * @param file path
+     * @return string data of file
+     */
+    public static function readFl($file)
+    {
+        $fileC = fopen($file, "r") or die("unable to open");
+        return fread($fileC, filesize($file));
+        fclose($fileC);
+    }
+    /**
+     * function writeFl file is to write file
+     *
+     * @param file path
+     * @param $data to store in file
+     */
+    public static function writeFl($data, $file)
+    {
+        $filec = fopen($file, "w") or die("unable to open");
+        fwrite($filec, $data);
+    }
 }
-?>

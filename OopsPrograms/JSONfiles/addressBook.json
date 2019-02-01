@@ -1,0 +1,56 @@
+[
+    {
+        "firstname": "hhhh",
+        "lastName": "kkkk",
+        "address": "Hyd",
+        "city": "Hyderbad",
+        "state": "Telangana",
+        "zip": 222222,
+        "pNumber": 8878100000
+    },
+    {
+        "firstname": "Iiiii",
+        "lastName": "nnnnn",
+        "address": "DPS",
+        "city": "Bhopal",
+        "state": "MP",
+        "zip": 111111,
+        "pNumber": 7800000878
+    },
+    {
+        "firstname": "mmmmm",
+        "lastName": "Kkkk",
+        "address": "Bazar",
+        "city": "Jabalpur",
+        "state": "UP",
+        "zip": 400006,
+        "pNumber": 8801410000
+    },
+    {
+        "firstname": "rrrrr",
+        "lastName": "lllll",
+        "address": "KOL",
+        "city": "Bhel",
+        "state": "WB",
+        "zip": 5000013,
+        "pNumber": 9708451263
+    },
+    {
+        "firstname": "Eeee",
+        "lastName": "iiii",
+        "address": "Mot",
+        "city": "Indore",
+        "state": "MP",
+        "zip": 400012,
+        "pNumber": 9725846310
+    },
+    {
+        "FirstName": "abs",
+        "LastName": "dff",
+        "Address": "djfgjgf",
+        "City": "tgkgh",
+        "State": "mb",
+        "Zip": 600041,
+        "PhoneNumber": 8888888888
+    }
+]

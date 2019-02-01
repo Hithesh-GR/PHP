@@ -25,6 +25,9 @@ class Utility
         }
         return $var;
     }
+    /**
+    * @purpose : function to read integer and return integer value
+    */
     public static function readInt(){
         fscanf(STDIN, "%s", $i);
         /**
